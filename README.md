@@ -51,7 +51,7 @@ $ expo start
 * Abra o app, conceda as permissões necessárias e aperte no ***Scan QR Code***.
 
 <div align="center">
-  <img alt="Links" title="#Links" src="https://user-images.githubusercontent.com/51729214/121111026-93bc6380-c7e4-11eb-8c37-5e16b26eba99.png" />
+  <img alt="Links" title="#Links" src="./github/expo.png" />
 </div>
 
 * Escaneie o QR Code que irá abrir no seu CMD/Terminal.
