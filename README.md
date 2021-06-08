@@ -1,5 +1,5 @@
 <div align="center">
-  <img border="0" src="https://user-images.githubusercontent.com/51729214/121049802-6d6bd900-c78e-11eb-9c9d-b8c0b2b4153b.png" alt="icon" width="100"/>
+  <img border="0" src="https://user-images.githubusercontent.com/51729214/121049802-6d6bd900-c78e-11eb-9c9d-b8c0b2b4153b.png" alt="icon" width="150"/>
   <p align="center">🚀 Encurte seus links grandes de uma forma muito simples</p>
   <img src="https://img.shields.io/github/followers/erikpervious?style=social" />
   <img src="https://img.shields.io/badge/version-1.0.0-blue" />
