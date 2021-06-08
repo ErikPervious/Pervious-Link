@@ -14,3 +14,9 @@
 <p>No Insider 3.0 a proposta foi criar um aplicativo mobile(android/ios) onde você pode colar links grandes e deixa-los bem menores como por exemplo https://linkgrande.com/shdgf9287340124 que ficaria algo do tipo https://link.com/12sdu.</p>
 
 <h1 align="center">Preview do Projeto</h1>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/51729214/121106622-c19daa00-c7dc-11eb-83c9-c43d142a49e6.png" alt="Home" width="300" border="0" />
+<img src="https://user-images.githubusercontent.com/51729214/121106718-f01b8500-c7dc-11eb-8db6-ec77db2ba99f.png" alt="Home" width="300" border="0" />
+<img src="https://user-images.githubusercontent.com/51729214/121106720-f14cb200-c7dc-11eb-9fa1-a2556a3fa620.png" alt="Home" width="300" border="0" />
+</div>
