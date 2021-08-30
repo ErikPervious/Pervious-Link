@@ -29,7 +29,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ErikPervious/pervious-link-insider-3.0
+$ git clone https://github.com/ErikPervious/Pervious-Link.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Pervious-Link
