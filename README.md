@@ -32,7 +32,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/ErikPervious/pervious-link-insider-3.0
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd react-native-insider-3.0
+$ cd Pervious-Link
 
 # Instale o projeto na sua máquina
 $ yarn install
