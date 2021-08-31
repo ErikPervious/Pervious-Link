@@ -65,3 +65,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React Native](https://reactnative.dev/)
+
+## 📄 Licença
+
+Esse projeto está sob a licença GNU. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
